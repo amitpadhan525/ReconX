@@ -32,6 +32,7 @@ def run_port_scan(target,port_range):
             result=future.result()
             if result:
                 open_ports.append(result)
+    open_ports.sort()
 
     return open_ports
 
