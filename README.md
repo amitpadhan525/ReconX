@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="ReconX Banner" width="100%">
+</p>
+
 # ReconX
 
 **ReconX** is a modular, multi-threaded network reconnaissance and asset discovery tool written in Python. It helps security analysts and network administrators identify exposed attack surfaces, open ports, running services, and web endpoints.
